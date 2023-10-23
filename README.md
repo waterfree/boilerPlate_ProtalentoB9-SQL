@@ -39,7 +39,7 @@ Sequelize + express + node
 12. Se crea estructura de carpetas src/routes, controllers, Models, middlewares
 13. se crean archivos app.js y db.js en la carpeta src
 14. se crea un archivo .gitignore en la raiz del proyecto, agrega agrega node_modules y package_lock.json
-15. git add
+15. git add .
 16. git commit -m "first commit"
 17. git push
 
