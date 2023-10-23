@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate_protalentob9-sql",
+  "version": "1.0.0",
+  "description": "Sequelize + express + node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":  "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
